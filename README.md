@@ -8,7 +8,7 @@ Research publication by **Hassna El-Bousiydy and collaborators** · Publication 
 
 Hassna El-Bousiydy, Teo Lombardo, Emiliano N. Primo, Marc Duquesnoy, Mathieu Morcrette, Patrik Johansson, Patrice Simon, Alexis Grimaud and Alejandro A. Franco.
 
-*Batteries & Supercaps*, 4(5), 758–766 (2021). First published online: **29 January 2021**.
+*Batteries & Supercaps*, 4(5), 758-766 (2021). First published online: **29 January 2021**.
 
 **[Read the article →](https://doi.org/10.1002/batt.202000288)**
 
@@ -26,12 +26,12 @@ The team's existing [BatteriesMining repository](https://github.com/ARTISTIC-ERC
 
 This is a publication overview, prepared in **November 2026**, not an executable software release. It contains an original description and bibliographic links. No article PDF, figures, dataset, or thesis source code is included.
 
-The article's published version carries a Creative Commons Attribution–NonCommercial–NoDerivs notice, visible in the [institutional copy](https://research.chalmers.se/publication/522713/file/522713_Fulltext.pdf). That notice does not license this repository or unrelated local files. Any future additions require their own rights review.
+The article's published version carries a Creative Commons Attribution-NonCommercial-NoDerivs notice, visible in the [institutional copy](https://research.chalmers.se/publication/522713/file/522713_Fulltext.pdf). That notice does not license this repository or unrelated local files. Any future additions require their own rights review.
 
 ## Publication sequence
 
-1. **This study** — January 2021.
-2. [AI applied to battery research](https://github.com/Hassna-elbousiydy/02-2021-ai-battery-research-review) — September 2021 online; 2022 journal issue.
-3. [LIBAC](https://github.com/Hassna-elbousiydy/03-2023-libac-annotated-corpus) — February 2023.
+1. **This study** - January 2021.
+2. [AI applied to battery research](https://github.com/Hassna-elbousiydy/02-2021-ai-battery-research-review) - September 2021 online; 2022 journal issue.
+3. [LIBAC](https://github.com/Hassna-elbousiydy/03-2023-libac-annotated-corpus) - February 2023.
 
-Dates above refer to publications, not to GitHub activity. Companion repositories may require access while private.
+Dates above refer to publications, not to GitHub activity.
